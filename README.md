@@ -4,7 +4,7 @@
 🎓My name is Mohamed Elhelw, and I am a skilled developer proficient in both **front-end and back-end development**. I completed my studies at Northwestern University Bootcamp, where I honed my technical expertise. In addition, I hold a bachelor's degree in Business and Economics
 
 
-✈️ I love **traveling** too.and love learn about new cultures
+✈️ I love **traveling** and love learn about new cultures
 
 ## 🛠️ Skills
 
