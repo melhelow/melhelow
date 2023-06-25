@@ -1,7 +1,7 @@
 # Welcome to my Github page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## 🚀 About Me
 
-🎓My name is Mohamed Elhelw, and I am a skilled developer proficient in both **front-end and back-end development**. I completed my studies at Northwestern University Bootcamp, where I honed my technical expertise. In addition, I hold a bachelor's degree in Business and Economics
+🎓I'm Mohamed Elhelw, a skilled developer experienced in both **front-end and back-end** development. I graduated from Northwestern University Bootcamp in addition to my bachelor's degree in Business and Economics. I'm passionate about creating high-quality solutions that align with clients' goals. Let's work together to bring your vision to life
 
 
 ✈️ I love **traveling** and love learn about new cultures
