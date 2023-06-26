@@ -51,7 +51,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <a href="https://ra1nbow.xyz?ref=github">
+  <a href="https://melhelow.xyz?ref=github">
     <img src="https://profile-counter.glitch.me/melhelow/count.svg" />
   </a>
 </p>
