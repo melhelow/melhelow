@@ -3,8 +3,13 @@
 
 🎓I'm Mohamed Elhelw, a skilled developer experienced in both **front-end and back-end** development. I graduated from Northwestern University Bootcamp in addition to my bachelor's degree in Business and Economics. I'm passionate about creating high-quality solutions that align with clients' goals. Let's work together to bring your vision to life
 
+🌍  I'm based in **Chicago**, IL
+
 
 ✈️ I love **Traveling** , exploring new cities and learning about new cultures
+
+## ✉️ Contact me
+* ✉️  You can contact me at [melhelow@hotmail.com](mailto:melhelow@hotmail.com)
 
 ## 🛠️ Skills
 
