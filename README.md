@@ -49,7 +49,7 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://melhelow.github.io/MyPortofoilio-R/)
+[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://melhelow.github.io/MyPortfolio-R/)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://docs.google.com/document/d/1U3i4QfZam5JOHkwkCso4N_nPZyPV6omI/edit?usp=sharing&ouid=110909586083255230838&rtpof=true&sd=true)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohamed-elhelw-76a888271/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/melhelow)
