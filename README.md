@@ -1,7 +1,7 @@
 # Welcome to my Github page! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ## 🚀 About Me
 
-🎓I'm Mohamed Elhelw, a skilled developer experienced in both **front-end and back-end** development. I graduated from Northwestern University Bootcamp in addition to my bachelor's degree in Business and Economics. I'm passionate about creating high-quality solutions that align with clients' goals. Let's work together to bring your vision to life
+🎓I'm Mohamed Elhelw, Experienced Full Stack Web Developer, passionate about injecting creativity into code. Proficient in MERN stack technologies, including JavaScript, Express, Node, HTML, and CSS. My expertise lies in crafting distinctive user experiences and creatively solving challenges in both **front-end and back-end development**. Adept in client communication, both written and verbal, with a knack for nurturing long-term relationships. Experienced in deploying projects to Heroku and proficient in GitHub for version control.
 
 🌍  based in **Chicago, IL, USA**
 
