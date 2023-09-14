@@ -9,7 +9,7 @@
 ✈️ I love **Traveling** , exploring new cities and learning about new cultures
 
 ## ✉️ Contact me
-* ✉️  You can contact me at [melhelow@hotmail.com](mailto:melhelow@hotmail.com)
+* ✉️  contact me at : [melhelow@hotmail.com](mailto:melhelow@hotmail.com) Or [melhelw558@gmail.com](mailto:melhelw558@gmail.com)
 
 ## 🛠️ Skills
 
@@ -36,12 +36,9 @@
 
 
 ### GitHub Stats
-<a href="http://www.github.com/melhelow"><img src="https://github-readme-stats.vercel.app/api?username=melhelow&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="melhelow's GitHub stats" /></a>
+<a href="http://www.github.com/melhelow"><img src="https://github-readme-stats.vercel.app/api?username=melhelow&show_icons=true&hide=&count_private=true&title_color=1c1917&text_color=1c1917&icon_color=0891b2&bg_color=f7df1e&hide_border=true&border_radius=6.0&show_icons=true" alt="melhelow's GitHub stats" /></a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=melhelow&theme=javascript&border_radius=6.0&card_width=500)](https://git.io/streak-stats)
-<a href="https://github.com/melhelow" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melhelow&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-
+<a href="https://github.com/melhelow" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melhelow&langs_count=5&title_color=1c1917&text_color=1c1917&icon_color=0891b2&bg_color=40E0D0&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </p>
 <p align="left">
