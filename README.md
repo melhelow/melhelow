@@ -5,6 +5,9 @@
 
 🌍  based in **Chicago, IL, USA**
 
+## Currently learning
+ * **java**
+
 
 ✈️ I love **Traveling** , exploring new cities and learning about new cultures
 
