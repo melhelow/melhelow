@@ -6,7 +6,7 @@
 🌍  based in **Chicago, IL, USA**
 
 ## Currently learning
- * **java**
+ * **Ruby on Rails**
 
 
 ✈️ I love **Traveling** , exploring new cities and learning about new cultures
