@@ -9,7 +9,7 @@
  * **Ruby on Rails**
 
 ## My Hobbies
-✈️ I love **Traveling** , **Fishing** **exploring new cities** and **learning about new cultures**.
+✈️ I love **Traveling** , **Fishing**, **exploring new cities** and **learning about new cultures**.
 
 ## ✉️ Contact me
 * ✉️  contact me at : [melhelow@hotmail.com](mailto:melhelow@hotmail.com) Or [melhelw558@gmail.com](mailto:melhelw558@gmail.com)
